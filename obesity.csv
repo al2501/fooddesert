@@ -1,0 +1,312 @@
+﻿Local Health - Public Health England; ; 
+Geographical references: Lower Tier Local Authority 2021; ; 
+Code;Label;Adults (aged 16+): Estimated prevalence of obesity, including overweight, by national quintile
+E06000001;Hartlepool;1
+E06000002;Middlesbrough;1
+E06000003;Redcar and Cleveland;1
+E06000004;Stockton-on-Tees;1
+E06000005;Darlington;3
+E06000006;Halton;1
+E06000007;Warrington;1
+E06000008;Blackburn with Darwen;3
+E06000009;Blackpool;1
+E06000010;Kingston upon Hull, City of;2
+E06000011;East Riding of Yorkshire;1
+E06000012;North East Lincolnshire;1
+E06000013;North Lincolnshire;1
+E06000014;York;5
+E06000015;Derby;3
+E06000016;Leicester;5
+E06000017;Rutland;2
+E06000018;Nottingham;4
+E06000019;Herefordshire, County of;3
+E06000020;Telford and Wrekin;1
+E06000021;Stoke-on-Trent;2
+E06000022;Bath and North East Somerset;5
+E06000023;Bristol, City of;5
+E06000024;North Somerset;4
+E06000025;South Gloucestershire;4
+E06000026;Plymouth;4
+E06000027;Torbay;2
+E06000030;Swindon;1
+E06000031;Peterborough;2
+E06000032;Luton;4
+E06000033;Southend-on-Sea;2
+E06000034;Thurrock;1
+E06000035;Medway;2
+E06000036;Bracknell Forest;5
+E06000037;West Berkshire;4
+E06000038;Reading;5
+E06000039;Slough;4
+E06000040;Windsor and Maidenhead;5
+E06000041;Wokingham;5
+E06000042;Milton Keynes;1
+E06000043;Brighton and Hove;5
+E06000044;Portsmouth;4
+E06000045;Southampton;4
+E06000046;Isle of Wight;3
+E06000047;County Durham;2
+E06000049;Cheshire East;3
+E06000050;Cheshire West and Chester;3
+E06000051;Shropshire;3
+E06000052;Cornwall;1
+E06000053;Isles of Scilly;4
+E06000054;Wiltshire;4
+E06000055;Bedford;4
+E06000056;Central Bedfordshire;1
+E06000057;Northumberland;1
+E06000058;Bournemouth, Christchurch and Poole;5
+E06000059;Dorset;3
+E06000060;Buckinghamshire;4
+E06000061;North Northamptonshire;1
+E06000062;West Northamptonshire;3
+E07000008;Cambridge;5
+E07000009;East Cambridgeshire;2
+E07000010;Fenland;1
+E07000011;Huntingdonshire;2
+E07000012;South Cambridgeshire;4
+E07000026;Allerdale;2
+E07000027;Barrow-in-Furness;2
+E07000028;Carlisle;2
+E07000029;Copeland;1
+E07000030;Eden;2
+E07000031;South Lakeland;4
+E07000032;Amber Valley;1
+E07000033;Bolsover;1
+E07000034;Chesterfield;1
+E07000035;Derbyshire Dales;4
+E07000036;Erewash;1
+E07000037;High Peak;4
+E07000038;North East Derbyshire;2
+E07000039;South Derbyshire;2
+E07000040;East Devon;3
+E07000041;Exeter;5
+E07000042;Mid Devon;3
+E07000043;North Devon;2
+E07000044;South Hams;3
+E07000045;Teignbridge;4
+E07000046;Torridge;2
+E07000047;West Devon;4
+E07000061;Eastbourne;3
+E07000062;Hastings;4
+E07000063;Lewes;3
+E07000064;Rother;3
+E07000065;Wealden;4
+E07000066;Basildon;1
+E07000067;Braintree;2
+E07000068;Brentwood;3
+E07000069;Castle Point;1
+E07000070;Chelmsford;4
+E07000071;Colchester;3
+E07000072;Epping Forest;4
+E07000073;Harlow;3
+E07000074;Maldon;1
+E07000075;Rochford;2
+E07000076;Tendring;2
+E07000077;Uttlesford;4
+E07000078;Cheltenham;4
+E07000079;Cotswold;4
+E07000080;Forest of Dean;1
+E07000081;Gloucester;3
+E07000082;Stroud;5
+E07000083;Tewkesbury;2
+E07000084;Basingstoke and Deane;3
+E07000085;East Hampshire;2
+E07000086;Eastleigh;2
+E07000087;Fareham;3
+E07000088;Gosport;1
+E07000089;Hart;4
+E07000090;Havant;2
+E07000091;New Forest;3
+E07000092;Rushmoor;4
+E07000093;Test Valley;2
+E07000094;Winchester;5
+E07000095;Broxbourne;3
+E07000096;Dacorum;3
+E07000098;Hertsmere;5
+E07000099;North Hertfordshire;4
+E07000102;Three Rivers;3
+E07000103;Watford;5
+E07000105;Ashford;2
+E07000106;Canterbury;5
+E07000107;Dartford;1
+E07000108;Dover;4
+E07000109;Gravesham;1
+E07000110;Maidstone;3
+E07000111;Sevenoaks;5
+E07000112;Folkestone and Hythe;3
+E07000113;Swale;2
+E07000114;Thanet;2
+E07000115;Tonbridge and Malling;3
+E07000116;Tunbridge Wells;4
+E07000117;Burnley;3
+E07000118;Chorley;4
+E07000119;Fylde;1
+E07000120;Hyndburn;2
+E07000121;Lancaster;4
+E07000122;Pendle;2
+E07000123;Preston;4
+E07000124;Ribble Valley;4
+E07000125;Rossendale;2
+E07000126;South Ribble;3
+E07000127;West Lancashire;3
+E07000128;Wyre;3
+E07000129;Blaby;2
+E07000130;Charnwood;5
+E07000131;Harborough;3
+E07000132;Hinckley and Bosworth;2
+E07000133;Melton;3
+E07000134;North West Leicestershire;2
+E07000135;Oadby and Wigston;5
+E07000136;Boston;1
+E07000137;East Lindsey;1
+E07000138;Lincoln;4
+E07000139;North Kesteven;1
+E07000140;South Holland;1
+E07000141;South Kesteven;1
+E07000142;West Lindsey;2
+E07000143;Breckland;3
+E07000144;Broadland;2
+E07000145;Great Yarmouth;1
+E07000146;King's Lynn and West Norfolk;1
+E07000147;North Norfolk;1
+E07000148;Norwich;5
+E07000149;South Norfolk;4
+E07000163;Craven;3
+E07000164;Hambleton;3
+E07000165;Harrogate;3
+E07000166;Richmondshire;4
+E07000167;Ryedale;2
+E07000168;Scarborough;2
+E07000169;Selby;1
+E07000170;Ashfield;1
+E07000171;Bassetlaw;1
+E07000172;Broxtowe;4
+E07000173;Gedling;1
+E07000174;Mansfield;1
+E07000175;Newark and Sherwood;2
+E07000176;Rushcliffe;4
+E07000177;Cherwell;4
+E07000178;Oxford;5
+E07000179;South Oxfordshire;5
+E07000180;Vale of White Horse;4
+E07000181;West Oxfordshire;3
+E07000187;Mendip;4
+E07000188;Sedgemoor;1
+E07000189;South Somerset;3
+E07000192;Cannock Chase;1
+E07000193;East Staffordshire;2
+E07000194;Lichfield;3
+E07000195;Newcastle-under-Lyme;2
+E07000196;South Staffordshire;1
+E07000197;Stafford;2
+E07000198;Staffordshire Moorlands;3
+E07000199;Tamworth;1
+E07000200;Babergh;3
+E07000202;Ipswich;3
+E07000203;Mid Suffolk;2
+E07000207;Elmbridge;5
+E07000208;Epsom and Ewell;5
+E07000209;Guildford;5
+E07000210;Mole Valley;5
+E07000211;Reigate and Banstead;4
+E07000212;Runnymede;5
+E07000213;Spelthorne;4
+E07000214;Surrey Heath;3
+E07000215;Tandridge;4
+E07000216;Waverley;5
+E07000217;Woking;5
+E07000218;North Warwickshire;1
+E07000219;Nuneaton and Bedworth;2
+E07000220;Rugby;3
+E07000221;Stratford-on-Avon;3
+E07000222;Warwick;5
+E07000223;Adur;4
+E07000224;Arun;2
+E07000225;Chichester;5
+E07000226;Crawley;3
+E07000227;Horsham;5
+E07000228;Mid Sussex;5
+E07000229;Worthing;3
+E07000234;Bromsgrove;2
+E07000235;Malvern Hills;5
+E07000236;Redditch;2
+E07000237;Worcester;3
+E07000238;Wychavon;2
+E07000239;Wyre Forest;2
+E07000240;St Albans;5
+E07000241;Welwyn Hatfield;5
+E07000242;East Hertfordshire;3
+E07000243;Stevenage;3
+E07000244;East Suffolk;4
+E07000245;West Suffolk;2
+E07000246;Somerset West and Taunton;3
+E08000001;Bolton;4
+E08000002;Bury;2
+E08000003;Manchester;5
+E08000004;Oldham;2
+E08000005;Rochdale;1
+E08000006;Salford;3
+E08000007;Stockport;4
+E08000008;Tameside;2
+E08000009;Trafford;5
+E08000010;Wigan;2
+E08000011;Knowsley;1
+E08000012;Liverpool;4
+E08000013;St. Helens;1
+E08000014;Sefton;1
+E08000015;Wirral;3
+E08000016;Barnsley;1
+E08000017;Doncaster;1
+E08000018;Rotherham;1
+E08000019;Sheffield;4
+E08000021;Newcastle upon Tyne;5
+E08000022;North Tyneside;2
+E08000023;South Tyneside;1
+E08000024;Sunderland;1
+E08000025;Birmingham;4
+E08000026;Coventry;4
+E08000027;Dudley;1
+E08000028;Sandwell;2
+E08000029;Solihull;3
+E08000030;Walsall;2
+E08000031;Wolverhampton;2
+E08000032;Bradford;1
+E08000033;Calderdale;3
+E08000034;Kirklees;3
+E08000035;Leeds;4
+E08000036;Wakefield;1
+E08000037;Gateshead;2
+E09000001;City of London;5
+E09000002;Barking and Dagenham;2
+E09000003;Barnet;5
+E09000004;Bexley;2
+E09000005;Brent;5
+E09000006;Bromley;4
+E09000007;Camden;5
+E09000008;Croydon;4
+E09000009;Ealing;5
+E09000010;Enfield;3
+E09000011;Greenwich;4
+E09000012;Hackney;5
+E09000013;Hammersmith and Fulham;5
+E09000014;Haringey;5
+E09000015;Harrow;5
+E09000016;Havering;3
+E09000017;Hillingdon;4
+E09000018;Hounslow;4
+E09000019;Islington;5
+E09000020;Kensington and Chelsea;5
+E09000021;Kingston upon Thames;5
+E09000022;Lambeth;5
+E09000023;Lewisham;5
+E09000024;Merton;5
+E09000025;Newham;5
+E09000026;Redbridge;4
+E09000027;Richmond upon Thames;5
+E09000028;Southwark;5
+E09000029;Sutton;4
+E09000030;Tower Hamlets;5
+E09000031;Waltham Forest;5
+E09000032;Wandsworth;5
+E09000033;Westminster;5
